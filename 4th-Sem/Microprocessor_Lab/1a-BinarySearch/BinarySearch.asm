@@ -8,7 +8,7 @@
 	LEN		dW	($-ARRAY)/2
 	KEY		dW	6789h
 	
-	STR1	dB	10, 13, 'Element Found at Position '
+	STR1	dB	10, 13, 'Element Found at Position $'
 	POS		dB	?, 10, 13, '$'
 	STR2	dB	10, 13, 'Element Not Found!$'
 	
