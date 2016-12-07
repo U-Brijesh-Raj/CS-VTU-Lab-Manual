@@ -113,5 +113,5 @@ Need Matrix is:
 4 3 1
 
 Safe Sequence is:
-1       3       4       0       2
+1       3       0       2       4
 ```
